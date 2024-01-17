@@ -1,9 +1,13 @@
-# <!-- name:start -->typescript<!-- name:end -->
+ESNEXT で追加されたメソッドを es6 環境で使えるようにするためのビルドツールです。
 
-<!-- description:start -->TypeScript setup using esbuild-loader as an alternative to ts-loader and using tsc for type-checking<!-- description:end -->
+次のことができます。
+
+- `npm run build`: typescript ファイルの polyfill 適用、単一のファイルにバンドル -`npm run transpile`: typescript ファイルを javascript ファイルにトランスパイルします。
 
 ## Commands
+
 <!-- commands:start -->
+
 - `npm run build`
 - `npm run typecheck`
 <!-- commands:end -->
