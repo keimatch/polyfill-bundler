@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "importsNotUsedAsValues": "remove",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "include": ["src"]
+}
