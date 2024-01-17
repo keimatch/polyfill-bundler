@@ -10,5 +10,5 @@ ESNEXT で追加されたメソッドを es6 環境で使えるようにする�
 <!-- commands:start -->
 
 - `npm run build`
-- `npm run typecheck`
+- `npm run transpile`
 <!-- commands:end -->
